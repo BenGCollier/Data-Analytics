@@ -16,7 +16,7 @@
 - I would like to have a deeper understanding of certain models like Neural Networks.
 - I wish I got the chance to use Power BI in classes other than CIDM 5310.
 
-# Data Analytics: Support
+# Data Analytics: Resources & References
 
 ## Work Samples
 - [CIDM 5310](https://github.com/BenGCollier/CIDM-5310)
@@ -27,6 +27,7 @@
 - Lecture/instructional videos
 - Course lectures
 - DataCamp
+- Searching the Web
 
 ## Summary Statement
 
