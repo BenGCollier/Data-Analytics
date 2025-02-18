@@ -1,7 +1,7 @@
 # Data Analytics: Skills & Knowledge Assessment
 
 ## Strengths
-- Out of the four core areas, Data Analytics is the one I have the most knowledge and experience in.
+- Out of the four core areas, data analytics is the one I have the most knowledge and experience in.
 - I can create and interpret most predictive models efficiently. 
 - RapidMiner as a tool has become very easy for me to use and navigate through.
 - I feel comfortable using Power BI even though I do not have as much experience with it compared to tools like RapidMiner or Excel.
@@ -10,7 +10,7 @@
 ## Weaknesses
 - Tableau is still relatively new to me, I did not get all that much experience with it.
 - Struggled with some aspects of Microsoft Azure.
-- I am prone to making mistakes when cleaning data.
+- Struggled with cleaning data for CIDM 5310.
 
 ## Wants/Wishes
 - I would like to have a deeper understanding of certain models like Neural Networks.
@@ -27,7 +27,7 @@
 - Lecture/instructional videos
 - Course lectures
 - DataCamp
-- Searching the Web
+- Searching the web
 
 ## Summary Statement
 
@@ -36,9 +36,13 @@
 # Data Analytics: Integration
 
 ## Why Data Analytics is Integrable with Other Areas
+- Data mining and management goes hand in hand with data analysis due to 
+- Systems development
+- Networking and cybersecurity
 
 ## How Data Analytics is Integrable with Other Areas
 
 ## How Data Analytics is Integrable with Prior Work
+- In both CIDM 5310 and 6308, cleaning data was needed for almost all of the assignments, which is a big part of data mining and management.
 
 ## Integration Statement
