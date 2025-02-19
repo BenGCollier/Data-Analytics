@@ -31,14 +31,14 @@
 - Searching the web
 
 ## Summary Statement
-- With the skills I have learned and tools I have used in both CIDM 5310 and 6308, using them in future settings will be highly likely. With 50,000+ companies using either Tableau or Power BI as an analytics tool, 
+- With the skills I have learned and tools I have used in both CIDM 5310 and 6308, using them in future settings will be highly likely. 50,000+ companies use either Tableau or Power BI as an analytics tool, and many large companies use RapidMiner, so 
 
 ## Preparedness
 
 # Data Analytics: Integration
 
 ## Why Data Analytics is Integrable with Other Areas
-- Data mining and management involves extracting valuable information from datasets, while data analytics 
+- Data mining and management involves extracting valuable information from datasets, while data analytics takes that information 
 - Systems development
 - Networking and cybersecurity
 
