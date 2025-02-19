@@ -26,6 +26,7 @@
 - Lecture slides
 - Lecture/instructional videos
 - Course lectures
+- Course textbook
 - DataCamp
 - Searching the web
 
