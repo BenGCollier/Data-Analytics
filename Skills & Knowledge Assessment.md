@@ -40,7 +40,7 @@ Data analytics is a rapidly growing field with widespread industry adoption. Ove
 - Networking and cybersecurity makes use of data analytics through analyzing network traffic patterns to detect any anomalies and cyber security threats. Organizations can also improve their cybersecurity strategies by analyzing past attacks and/or security breaches.
 
 ## How Data Analytics is Integrable with Prior Work
-- In both CIDM 5310 and 6308, data mining and management was a part of most of the assignments and projects due to the need to clean the data before it became useable. 
+- In both CIDM 5310 and 6308, data mining and data management played a crucial role in projects. Many assignments required cleaning and structuring raw data before applying analytics techniques.
 
 ## Integration Statement
 Data analytics serves as the backbone of modern technology by transforming raw data into actionable insights. Whether in data mining and management, systems development, or networking and cybersecurity, analytics enables informed decision-making, enhances efficiency, and strengthens security.
