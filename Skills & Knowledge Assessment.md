@@ -23,8 +23,7 @@
 - [CIDM 6308](https://github.com/BenGCollier/CIDM-6308)
 
 ## Knowledge Sources
-- Lecture slides
-- Lecture/instructional videos
+- Lecture slides & videos
 - Course lectures
 - Course textbook
 - DataCamp
