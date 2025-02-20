@@ -31,16 +31,16 @@
 - Searching the web
 
 ## Summary
-With the skills I have learned and tools I have used in both CIDM 5310 and 6308, using them in future settings will be highly likely. 50,000+ companies use either Tableau or Power BI as an analytics tool, and many large companies use RapidMiner, so . Not to mention, the field of data analytics is a 
+In terms of data analytics tools, 50,000+ companies use either Tableau or Power BI as an analytics tool, and many large companies use RapidMiner, so using at least one of them in a future setting is likely. As for the entire market of data analytics, it is projected to grow exponentially
 
 # Data Analytics: Integration
 
 ## Why and How Data Analytics is Integrable with Other Areas
 - Data mining involves extracting valuable information from datasets, while data analytics takes that information and ensures that it is meaningful. Data management on the other hand makes sure data is stored in a manner that can be used in data analytics and decision-making.
-- Systems development
-- Networking and cybersecurity
+- Systems development is aided by data analytics as it allows software engineers and developers to optimize system performance through analyzing user behavior and system efficiency. Additionally, predictive models can be used to detect potential system failures before they occur.
+- Networking and cybersecurity makes use of data analytics through analyzing network traffic patterns to detect any anomalies and cyber security threats. Organizations can also improve their cybersecurity strategies by analyzing past attacks and/or security breaches.
 
 ## How Data Analytics is Integrable with Prior Work
-- In both CIDM 5310 and 6308, data mining and 
+- In both CIDM 5310 and 6308, data mining and management was a part of most of the assignments and projects due to the need to clean the data before it became useable. 
 
 ## Integration Statement
