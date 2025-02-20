@@ -31,7 +31,7 @@
 - Searching the web
 
 ## Summary
-In terms of data analytics tools, 50,000+ companies use either Tableau or Power BI as an analytics tool, and many large companies use RapidMiner, so using at least one of them in a future setting is likely. As for the entire market of data analytics, it is projected to grow exponentially
+In terms of data analytics tools, 50,000+ companies use either Tableau or Power BI as an analytics tool, and many large companies use RapidMiner, so using at least one of them in a future setting is likely. As for the field of data analytics, it is already a successful field, and the market for it is projected to grow exponentially for the foreseeable future. 
 
 # Data Analytics: Integration
 
@@ -44,3 +44,4 @@ In terms of data analytics tools, 50,000+ companies use either Tableau or Power 
 - In both CIDM 5310 and 6308, data mining and management was a part of most of the assignments and projects due to the need to clean the data before it became useable. 
 
 ## Integration Statement
+Data analytics serves as the backbone of modern technology by transforming raw data into actionable insights. Whether in data mining and management, systems development, or networking and cybersecurity, analytics enables informed decision-making, enhances efficiency, and strengthens security.
