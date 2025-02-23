@@ -14,7 +14,8 @@
 
 ## Wants/Wishes
 - I would like to have a deeper understanding of certain models like Neural Networks.
-- I wish I got the chance to use Power BI in classes other than CIDM 5310.
+- Improve my proficiency with Tableau so I can confidently utilize it in professional settings.
+- Have more exposure to Power BI beyond CIDM 5310 to improve my ability to create interactive reports and dashboards.
 
 # Data Analytics: Resources & References
 
