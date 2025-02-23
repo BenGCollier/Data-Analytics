@@ -2,13 +2,13 @@
 
 ## Strengths
 - Out of the four core areas, data analytics is the one I have the most knowledge and experience in.
-- I can create and interpret most predictive models efficiently. 
-- RapidMiner as a tool has become very easy for me to use and navigate through.
-- I feel comfortable using Power BI even though I do not have as much experience with it compared to tools like RapidMiner or Excel.
-- Areas in which Excel was needed came easy to me.
+- I am proficient in creating and interpreting predictive models efficiently.
+- Over time, RapidMiner has become an intuitive tool for me. I used it extensively in CIDM 6308 to build machine learning models for classification tasks.
+- Although I have more experience with RapidMiner and Excel, I feel comfortable using Power BI for data visualization and reporting.
+- I have a strong grasp of Excel functionalities, particularly for data cleaning, pivot tables, and formula-based analysis. Many data analytics tasks in coursework relied on Excel for preprocessing before model deployment.
 
 ## Weaknesses
-- Tableau is still relatively new to me, I did not get all that much experience with it.
+- I have limited experience with Tableau. While I understand the basics, I have not had enough opportunities to work on in-depth visualization projects using it.
 - Struggled with some aspects of Microsoft Azure.
 - Struggled with cleaning data for CIDM 5310.
 
